@@ -1,2 +1,2 @@
 # selenium
-A group of projects for selenium learning
+A group of projects for selenium learning.
